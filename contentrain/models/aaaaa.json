@@ -16,5 +16,13 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "aaa",
+    "fieldId": "aaa",
+    "modelId": "aaaaa",
+    "componentId": "rich-text-editor",
+    "validations": {},
+    "fieldType": "string"
   }
 ]
