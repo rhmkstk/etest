@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "asfasf",
+    "fieldId": "asfasf",
+    "modelId": "aaaaa",
+    "componentId": "rich-text-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  }
+]
