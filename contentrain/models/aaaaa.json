@@ -16,5 +16,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "asfsafasfa",
+    "fieldId": "asfsafasfa",
+    "modelId": "aaaaa",
+    "componentId": "md-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
