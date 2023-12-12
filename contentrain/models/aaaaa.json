@@ -24,5 +24,13 @@
     "componentId": "rich-text-editor",
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "tyyuu",
+    "fieldId": "tyyuu",
+    "modelId": "aaaaa",
+    "componentId": "rich-text-editor",
+    "validations": {},
+    "fieldType": "string"
   }
 ]
