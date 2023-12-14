@@ -7,5 +7,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "markdown",
+    "fieldId": "markdown",
+    "modelId": "aaaaaa",
+    "componentId": "md-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
