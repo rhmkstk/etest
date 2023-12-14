@@ -1,0 +1,11 @@
+[
+  {
+    "name": "rich-text",
+    "fieldId": "rich-text",
+    "modelId": "aaaaaa",
+    "componentId": "rich-text-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  }
+]
